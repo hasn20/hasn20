@@ -1,24 +1,78 @@
-# Muhammad Hassaan
+<h1 align="center">Hi, I'm Muhammad Hassaan 👋</h1>
 
-Computer Systems Engineering Student | βeta Microsoft Learn Student Ambassador
+<p align="center">
+  <b>AI &amp; Full-Stack Engineer</b> · LLM, Agentic Systems &amp; AI Products
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhassaan1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:muhammadhassaan891@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.researchgate.net/publication/392798578_PsyRA_-A_Retrieval-Augmented_Dialogue_System_for_Mental_Health_Support"><img src="https://img.shields.io/badge/Publication-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="Publication"></a>
+</p>
 
-I'm a student passionate about cloud computing and data science. Currently exploring AWS, Python, and machine learning technologies.
+---
 
-## Interests
+### 🚀 About Me
 
-- Cloud Computing (AWS)
-- Data Science and AI/ML
+I build **production AI systems end-to-end** — from multi-model LLM and agentic pipelines to the full-stack web apps and cloud infrastructure that ship them. I work across the whole stack: **React/TypeScript** frontends, **Python & TypeScript** backends, **AWS** serverless infrastructure, and **multi-agent / RAG** systems powered by Anthropic Claude, OpenAI, and Google Gemini.
 
-## Skills
+- 🧠 Currently building agentic AI products on a multi-tenant conversational-AI platform
+- 🎬 Solo-built a **~58K-LOC AI content-generation platform** — autonomous agents that write & render video, plus 6+ generative-media models behind one app
+- 🔌 Love the "forward-deployed" sweet spot: real product problems, shipped fast, owned front to back
+- 🎓 B.S. Computer Systems Engineering · U.S. Dept. of State Global UGRAD Scholar
 
-- Programming: Python, C++, JavaScript
-- Cloud Platforms: AWS
-- Version Control: Git
+---
 
-## Get in touch
+### 🛠️ What I Build
 
-- LinkedIn: [muhammad-hassaan](https://www.linkedin.com/in/hassaan)
-- Email: muhammadhassaan891@gmail.com
-- GitHub: [hasn20](https://github.com/hasn20)
+| Area | Highlights |
+|---|---|
+| **AI / LLM** | Multi-agent orchestration, RAG, structured/tool-use extraction, prompt engineering, agentic code-gen (Claude Agent SDK) |
+| **Generative Media** | Text-to-video (Veo, Nova Reel), avatar video (HeyGen), image (Imagen), TTS, programmatic video (Remotion + FFmpeg) |
+| **Full-Stack** | React, TypeScript, TanStack Query, Zustand · FastAPI, Node.js, WebSockets/SSE · real-time, event-driven systems |
+| **Cloud & Data** | AWS (Lambda, S3, DynamoDB, ECS, Bedrock, SQS) · PostgreSQL, MongoDB, Neo4j · OAuth 2.0 integrations |
+| **AI Privacy** | PII detection/redaction, anonymization, pseudonymization, content safety, GDPR/PDPA/SOC 2 readiness |
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<br>
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=meta&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- **AI Content-Generation Platform** — an end-to-end studio that turns a brief into finished videos, thumbnails, carousels, blogs, podcasts & social content, driven by autonomous coding agents and 6+ generative-media models (FastAPI + React).
+- **Multi-Agent Marketing Analytics** — media-mix-model reporting with Ridge-regression correlation pipelines (adstock modeling) over campaign data. → [inovient.io/morpheus-ai](https://www.inovient.io/morpheus-ai/)
+- **Multi-Agent Healthcare Assistant** — intent-routed conversational AI for preventive care (plan creation, scheduling, doc Q&A). → [preventscripts.com](https://www.preventscripts.com)
+- **[PsyRA](https://github.com/saadshah8/PsyRA_Application)** — a Retrieval-Augmented dialogue system for mental-health support *(published on ResearchGate)*.
+- **[AWS Serverless Log Management](https://github.com/hasn20/AWS-Serverless-Log-Management-with-a-Subscription-Based-Glue-Catalog-Update)** · **[AI Image Generation on AWS](https://github.com/hasn20/AWS-AI-Image-Generation)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasn20&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasn20&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</p>
+
+---
+
+<p align="center"><i>Open to AI Engineering, Full-Stack, and Forward-Deployed / Solutions Engineering roles.</i></p>
