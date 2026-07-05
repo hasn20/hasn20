@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Hassaan 👋</h1>
+<h1 align="center">Muhammad Hassaan</h1>
 
 <p align="center">
   <b>AI &amp; Full-Stack Engineer</b> &nbsp;·&nbsp; LLM, Agentic Systems &amp; AI Products
@@ -10,16 +10,13 @@
   <a href="https://www.researchgate.net/publication/392798578_PsyRA_-A_Retrieval-Augmented_Dialogue_System_for_Mental_Health_Support"><img src="https://img.shields.io/badge/Publication-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="Publication"></a>
 </p>
 
-### 🚀 About Me
+### About Me
 
 I build production AI systems front to back, from multi-model LLM and agentic pipelines to the full-stack apps and cloud infrastructure that ship them. Day to day I work across React and TypeScript on the frontend, Python and TypeScript on the backend, AWS serverless infrastructure, and multi-agent / RAG systems powered by Anthropic Claude, OpenAI, and Google Gemini.
 
-- 🧠 Building agentic AI products on a multi-tenant conversational AI platform
-- 🎬 Built an end-to-end AI content generation platform where autonomous agents write and render video, backed by six generative media models
-- 🔌 Happiest in the forward deployed zone: real product problems, shipped fast, owned end to end
-- 🎓 B.S. Computer Systems Engineering and U.S. Dept. of State Global UGRAD Scholar
+I care about clean architecture, reliable systems, and owning problems end to end, from data model and API to infrastructure and UI.
 
-### 🛠️ What I Build
+### What I Build
 
 | Area | Highlights |
 |---|---|
@@ -31,7 +28,7 @@ I build production AI systems front to back, from multi-model LLM and agentic pi
 
 *Also comfortable around LLM evaluation (LLM-as-judge), multi-channel messaging platforms, voice AI agents, and event-driven microservices from building on a large conversational AI product.*
 
-### 💻 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -50,13 +47,11 @@ I build production AI systems front to back, from multi-model LLM and agentic pi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
-### 📌 Featured Projects
+### Featured Projects
 
-- **AI Content Generation Platform:** an end-to-end studio that turns a brief into finished videos, thumbnails, carousels, blogs, podcasts, and social content, driven by autonomous coding agents and multiple generative media models (FastAPI + React).
+- **AI Content Generation Platform:** an end-to-end AI studio that turns a brief into finished videos, thumbnails, carousels, blogs, podcasts, and social content, driven by autonomous coding agents and multiple generative media models. Designed and built solo, as the sole developer, at 5.Y Holdings (FastAPI + React).
 - **GLUCOSE:** the multi-tenant conversational AI platform I build on at 5.Y Holdings. → [Product](https://five-whys.com/product/#glucose)
 - **Insika AI (Multi-Agent Marketing Intelligence):** media mix modeling with Ridge-regression correlation pipelines over campaign data. → [Website](https://inovient.io/insika-ai/)
 - **PreventScripts (Multi-Agent Healthcare Assistant):** intent-routed conversational AI for preventive care (plan creation, scheduling, doc Q&A). → [Website](https://www.preventscripts.com)
-- **[PsyRA](https://github.com/saadshah8/PsyRA_Application):** a Retrieval-Augmented dialogue system for mental health support (published on ResearchGate).
+- **[PsyRA](https://github.com/saadshah8/PsyRA_Application):** a Retrieval-Augmented dialogue system for mental health support, published on ResearchGate.
 - **[AWS Serverless Log Management](https://github.com/hasn20/AWS-Serverless-Log-Management-with-a-Subscription-Based-Glue-Catalog-Update)** and **[AI Image Generation on AWS](https://github.com/hasn20/AWS-AI-Image-Generation)**
-
-<p align="center"><i>Open to AI Engineering, Full-Stack, and Forward Deployed / Solutions Engineering roles.</i></p>
