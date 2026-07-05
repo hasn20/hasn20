@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Hassaan 👋</h1>
 
 <p align="center">
-  <b>AI &amp; Full-Stack Engineer</b> · LLM, Agentic Systems &amp; AI Products
+  <b>AI &amp; Full-Stack Engineer</b> &nbsp;·&nbsp; LLM, Agentic Systems &amp; AI Products
 </p>
 
 <p align="center">
@@ -10,30 +10,26 @@
   <a href="https://www.researchgate.net/publication/392798578_PsyRA_-A_Retrieval-Augmented_Dialogue_System_for_Mental_Health_Support"><img src="https://img.shields.io/badge/Publication-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="Publication"></a>
 </p>
 
----
-
 ### 🚀 About Me
 
-I build **production AI systems end-to-end** — from multi-model LLM and agentic pipelines to the full-stack web apps and cloud infrastructure that ship them. I work across the whole stack: **React/TypeScript** frontends, **Python & TypeScript** backends, **AWS** serverless infrastructure, and **multi-agent / RAG** systems powered by Anthropic Claude, OpenAI, and Google Gemini.
+I build production AI systems front to back, from multi-model LLM and agentic pipelines to the full-stack apps and cloud infrastructure that ship them. Day to day I work across React and TypeScript on the frontend, Python and TypeScript on the backend, AWS serverless infrastructure, and multi-agent / RAG systems powered by Anthropic Claude, OpenAI, and Google Gemini.
 
-- 🧠 Currently building agentic AI products on a multi-tenant conversational-AI platform
-- 🎬 Solo-built a **~58K-LOC AI content-generation platform** — autonomous agents that write & render video, plus 6+ generative-media models behind one app
-- 🔌 Love the "forward-deployed" sweet spot: real product problems, shipped fast, owned front to back
-- 🎓 B.S. Computer Systems Engineering · U.S. Dept. of State Global UGRAD Scholar
-
----
+- 🧠 Building agentic AI products on a multi-tenant conversational AI platform
+- 🎬 Built an end-to-end AI content generation platform where autonomous agents write and render video, backed by six generative media models
+- 🔌 Happiest in the forward deployed zone: real product problems, shipped fast, owned end to end
+- 🎓 B.S. Computer Systems Engineering and U.S. Dept. of State Global UGRAD Scholar
 
 ### 🛠️ What I Build
 
 | Area | Highlights |
 |---|---|
-| **AI / LLM** | Multi-agent orchestration, RAG, structured/tool-use extraction, prompt engineering, agentic code-gen (Claude Agent SDK) |
-| **Generative Media** | Text-to-video (Veo, Nova Reel), avatar video (HeyGen), image (Imagen), TTS, programmatic video (Remotion + FFmpeg) |
-| **Full-Stack** | React, TypeScript, TanStack Query, Zustand · FastAPI, Node.js, WebSockets/SSE · real-time, event-driven systems |
+| **AI / LLM** | Multi-agent orchestration, RAG, structured / tool-use extraction, prompt engineering, agentic code-gen (Claude Agent SDK) |
+| **Generative Media** | Text to video (Veo, Nova Reel), avatar video (HeyGen), image (Imagen), speech (TTS), programmatic video (Remotion, FFmpeg) |
+| **Full-Stack** | React, TypeScript, TanStack Query, Zustand · FastAPI, Node.js, WebSockets, SSE · real-time, event-driven systems |
 | **Cloud & Data** | AWS (Lambda, S3, DynamoDB, ECS, Bedrock, SQS) · PostgreSQL, MongoDB, Neo4j · OAuth 2.0 integrations |
-| **AI Privacy** | PII detection/redaction, anonymization, pseudonymization, content safety, GDPR/PDPA/SOC 2 readiness |
+| **AI Privacy** | PII detection and redaction, anonymization, pseudonymization, content safety, GDPR / PDPA / SOC 2 readiness |
 
----
+*Also comfortable around LLM evaluation (LLM-as-judge), multi-channel messaging platforms, voice AI agents, and event-driven microservices from building on a large conversational AI product.*
 
 ### 💻 Tech Stack
 
@@ -43,7 +39,7 @@ I build **production AI systems end-to-end** — from multi-model LLM and agenti
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 <br>
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -54,25 +50,20 @@ I build **production AI systems end-to-end** — from multi-model LLM and agenti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 
----
-
 ### 📌 Featured Projects
 
-- **AI Content-Generation Platform** — an end-to-end studio that turns a brief into finished videos, thumbnails, carousels, blogs, podcasts & social content, driven by autonomous coding agents and 6+ generative-media models (FastAPI + React).
-- **Multi-Agent Marketing Analytics** — media-mix-model reporting with Ridge-regression correlation pipelines (adstock modeling) over campaign data. → [inovient.io/morpheus-ai](https://www.inovient.io/morpheus-ai/)
-- **Multi-Agent Healthcare Assistant** — intent-routed conversational AI for preventive care (plan creation, scheduling, doc Q&A). → [preventscripts.com](https://www.preventscripts.com)
-- **[PsyRA](https://github.com/saadshah8/PsyRA_Application)** — a Retrieval-Augmented dialogue system for mental-health support *(published on ResearchGate)*.
-- **[AWS Serverless Log Management](https://github.com/hasn20/AWS-Serverless-Log-Management-with-a-Subscription-Based-Glue-Catalog-Update)** · **[AI Image Generation on AWS](https://github.com/hasn20/AWS-AI-Image-Generation)**
-
----
+- **AI Content Generation Platform:** an end-to-end studio that turns a brief into finished videos, thumbnails, carousels, blogs, podcasts, and social content, driven by autonomous coding agents and multiple generative media models (FastAPI + React).
+- **GLUCOSE:** the multi-tenant conversational AI platform I build on at 5.Y Holdings. → [Product](https://five-whys.com/product/#glucose)
+- **Insika AI (Multi-Agent Marketing Intelligence):** media mix modeling with Ridge-regression correlation pipelines over campaign data. → [Website](https://inovient.io/insika-ai/)
+- **PreventScripts (Multi-Agent Healthcare Assistant):** intent-routed conversational AI for preventive care (plan creation, scheduling, doc Q&A). → [Website](https://www.preventscripts.com)
+- **[PsyRA](https://github.com/saadshah8/PsyRA_Application):** a Retrieval-Augmented dialogue system for mental health support (published on ResearchGate).
+- **[AWS Serverless Log Management](https://github.com/hasn20/AWS-Serverless-Log-Management-with-a-Subscription-Based-Glue-Catalog-Update)** and **[AI Image Generation on AWS](https://github.com/hasn20/AWS-AI-Image-Generation)**
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasn20&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasn20&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasn20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasn20&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
----
-
-<p align="center"><i>Open to AI Engineering, Full-Stack, and Forward-Deployed / Solutions Engineering roles.</i></p>
+<p align="center"><i>Open to AI Engineering, Full-Stack, and Forward Deployed / Solutions Engineering roles.</i></p>
