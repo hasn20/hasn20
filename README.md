@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Hassaan</h1>
+<h1 align="center">Hi, I'm Muhammad Hassaan 👋</h1>
 
 <p align="center">
   <b>AI &amp; Full-Stack Engineer</b> &nbsp;·&nbsp; LLM, Agentic Systems &amp; AI Products
@@ -21,7 +21,7 @@ I care about clean architecture, reliable systems, and owning problems end to en
 | Area | Highlights |
 |---|---|
 | **AI / LLM** | Multi-agent orchestration, RAG, structured / tool-use extraction, prompt engineering, agentic code-gen (Claude Agent SDK) |
-| **Generative Media** | Text to video (Veo, Nova Reel), avatar video (HeyGen), image (Imagen), speech (TTS), programmatic video (Remotion, FFmpeg) |
+| **Generative Media** | Text to video (Veo, Nova Reel), avatar video (HeyGen), image (Imagen), speech (TTS) |
 | **Full-Stack** | React, TypeScript, TanStack Query, Zustand · FastAPI, Node.js, WebSockets, SSE · real-time, event-driven systems |
 | **Cloud & Data** | AWS (Lambda, S3, DynamoDB, ECS, Bedrock, SQS) · PostgreSQL, MongoDB, Neo4j · OAuth 2.0 integrations |
 | **AI Privacy** | PII detection and redaction, anonymization, pseudonymization, content safety, GDPR / PDPA / SOC 2 readiness |
