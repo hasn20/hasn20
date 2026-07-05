@@ -59,11 +59,4 @@ I build production AI systems front to back, from multi-model LLM and agentic pi
 - **[PsyRA](https://github.com/saadshah8/PsyRA_Application):** a Retrieval-Augmented dialogue system for mental health support (published on ResearchGate).
 - **[AWS Serverless Log Management](https://github.com/hasn20/AWS-Serverless-Log-Management-with-a-Subscription-Based-Glue-Catalog-Update)** and **[AI Image Generation on AWS](https://github.com/hasn20/AWS-AI-Image-Generation)**
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hasn20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasn20&layout=compact&count_private=true&theme=tokyonight&hide_border=true" alt="top langs" />
-</p>
-
 <p align="center"><i>Open to AI Engineering, Full-Stack, and Forward Deployed / Solutions Engineering roles.</i></p>
